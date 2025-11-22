@@ -1,16 +1,31 @@
-## Hi there 👋
+# Benjamin W.
 
-<!--
-**Benny7412/Benny7412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello,👋
 
-Here are some ideas to get you started:
+I'm Benjamin, a student at BYU-I interested in Computer Science, Web Design, and Machine Learning Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning Software Development
+- My personal goal is to create useful open source technologies and apps.
+
+## Technologies and Tools
+
+- Proficient in:
+  Languages: HTML/CSS, JS, C#, Python, 
+  Popular Frameworks/libraries: React,
+  
+   
+- Skills: <Any Other Skills or Tools You Want to Highlight>
+
+## Let's Connect!
+
+- Here is my [LinkedIn](https://www.linkedin.com/in/benjamin-w-8b61462bb/) profile
+
+Feel free to explore my repositories and don't hesitate to reach out!
+
+# Projects
+
+## Personal
+
+## Team
