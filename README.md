@@ -25,6 +25,7 @@ I'm Benjamin, a student at BYU-I interested in Computer Science, Web Design, and
 Feel free to explore my repositories and don't hesitate to reach out!
 
 # Projects
+This is a section for my projects, Personal is for projects I built entirely on my own, Team is for projects that I built while actively communicating and working with a team. 
 
 ## Personal
 https://github.com/Benny7412/WDD330Final
